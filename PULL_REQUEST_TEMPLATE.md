@@ -1,6 +1,6 @@
 ---
-name: Tutorial PR
-about: Making a Pull Request for the ZEIT Getting Started tutorial?
+name: H3X-Z3
+about: H3X-Z3
 
 ---
 
